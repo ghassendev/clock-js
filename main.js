@@ -1,4 +1,3 @@
-
 function showTime(){
 'use strict'
 let now=new Date();
